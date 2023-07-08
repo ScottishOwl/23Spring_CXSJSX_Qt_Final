@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/hero.png</file>
+        <file>res/hero2.png</file>
+        <file>res/BGM.wav</file>
+        <file>res/background.jpg</file>
+        <file>res/hero3.png</file>
+        <file>res/bullet.png</file>
+        <file>res/label.png</file>
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/5.png</file>
+        <file>res/6.png</file>
+        <file>res/7.png</file>
+        <file>res/1(1).png</file>
+        <file>res/2(1).png</file>
+        <file>res/3(1).png</file>
+        <file>res/4(1).png</file>
+        <file>res/5(1).png</file>
+        <file>res/6(1).png</file>
+        <file>res/7(1).png</file>
+        <file>res/shield1(1).png</file>
+        <file>res/shield1.png</file>
+        <file>res/points(1).png</file>
+        <file>res/points.png</file>
+        <file>res/clear(1).png</file>
+        <file>res/clear.png</file>
+    </qresource>
+</RCC>
